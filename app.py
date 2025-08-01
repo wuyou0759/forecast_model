@@ -21,7 +21,7 @@ FORECAST_DESCRIPTIONS = {
     "forecast_9": "U.S. industrial production for defense and space equipment will average above its all-time high across 2028–2032",
     "forecast_10": "U.S. investment policy measures deemed 'less favourable to investors' will average above the elevated post-2020 level over 2026–2030",
     "forecast_11": "the global count of all active sanctions will exceed 1000 by the end of 2027",
-    "forecast_12": "U.S. critical technology exports to China will average lower over 2026–2030 than it did during 2020–2024",
+    "forecast_12": "U.S. critical technology exports to China will average higher over 2026–2030 than it did during 2020–2024",
     "forecast_13": "the share of critical sectors in China's total BRI engagement will exceed its long-run average of 76% by 2033",
     "forecast_14": "annual requests for WTO dispute consultations will remain below their long-run average from 2026–2030",
     "forecast_15": "the Asian Infrastructure Investment Bank (AIIB) will surpass 105 members by its 15th anniversary in 2031",
